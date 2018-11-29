@@ -1,0 +1,13 @@
+# cvs and pickle
+*.csv
+*.pickle
+
+# python files
+__pycache__
+
+# don't commit api_keys
+api_keys
+*.json
+
+# misc
+.DS_Store
