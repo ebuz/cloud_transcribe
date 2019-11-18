@@ -1,0 +1,11 @@
+[azure]
+api_key = ffffffffffffffffffff
+auth_url = https://eastus.api.cognitive.microsoft.com/sts/v1.0/issuetoken
+speech_url = https://eastus.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1
+
+[google]
+credentials_file = /path/to/credentials/file.json
+
+[watson]
+api_key = ffffffffffffffffff
+speech_url = https://stream.watsonplatform.net/speech-to-text/api
